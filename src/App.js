@@ -29,7 +29,7 @@ const App = () => {
   return (
     <div className="app-container">
       <div className="header-container">
-        <h1>TaskTrackr - To-Do List App</h1>
+        <h1>Task Tracker</h1>
       </div>
 
       <div className="tasks-container">
